@@ -9,7 +9,7 @@ Llegue al mundo tech con mucha curiosidad de aprender, he tenido la oportunidad 
 - 😄 linkedin: Brina Xiomar Garofalo Galeas --> https://www.linkedin.com/in/brina-xiomar-gar%C3%B3falo-galeas-0809b2189/
 
 
-- 
+ 
 <!--
 **BrinaGarofalo/BrinaGarofalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
