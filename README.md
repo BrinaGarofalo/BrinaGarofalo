@@ -1,5 +1,5 @@
 ### HOLA HOLA👋
-Mi nombre es Brina me da gusto tener tu visita:)
+Soy Brina me da gusto tener tu visita:)
 
 Soy Frontend Developer en busqueda de nuevos retos.
 
